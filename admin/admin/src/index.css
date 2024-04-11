@@ -4,5 +4,8 @@
 body{
     background: #0000FF;
     color: white;
-
+    /*change the color of the links*/
+    a{
+        color: #FF0000;
+    }
 }
